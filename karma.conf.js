@@ -10,11 +10,13 @@ module.exports = function (config) {
             'node_modules/chai-spies/chai-spies.js',
             'node_modules/chai-as-promised/lib/chai-as-promised.js',
             'src/*.js',
+            'lab/*.js',
             'test/*.js'
         ],
 
         reporters: ['dots', 'coverage'],
         preprocessors: {
+            'lab/*.js': ['coverage'],
             'src/*.js': ['coverage']
         },
 
