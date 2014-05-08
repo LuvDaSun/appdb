@@ -24,6 +24,6 @@ deploy:
   provider: npm
   email: elmerbulthuis@gmail.com
   api_key:
-    secure: ""
+    secure: "bzEoEA3Vbu5p4c9fot6BabEL1vhuH9VT2cDCLxou4SvJ+YN7FM14ZzP6dQg22tjL6TBK8y33Ivohrt+ryw8pLyb8/IMJd5/N5nJGYBxj3jjUM3FoYJwNaAFVPYiKIpKyC9B0kVhTZ8j+quwx74zRyjud9Hr271V14JHiK5RESNg="
   on:
     tags: true
