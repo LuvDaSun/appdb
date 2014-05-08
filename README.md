@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/LuvDaSun/AppDB.svg?branch=master)](https://travis-ci.org/LuvDaSun/AppDB)
+[![Build Status](https://travis-ci.org/LuvDaSun/appdb.svg?branch=master)](https://travis-ci.org/LuvDaSun/appdb)
 
 appdb
 =====
