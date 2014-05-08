@@ -4,6 +4,7 @@
   "description": "html5 app database framework",
   "author": "Elmer Bulthuis <elmerbulthuis@gmail.com>",
   "license": "WTFPL",
+  "repository": "git://github.com/LuvDaSun/appdb.git",
   "devDependencies": {
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
