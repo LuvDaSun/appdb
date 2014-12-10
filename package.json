@@ -9,7 +9,7 @@
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
     "chai-spies": "^0.5.1",
-    "karma": "0.12",
+    "karma": "~0.12.28",
     "karma-coverage": "0.2",
     "karma-firefox-launcher": "0.1",
     "karma-mocha": "^0.1.3",

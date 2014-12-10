@@ -11,8 +11,11 @@ var should = chai.should();
     var dbVersion = "1";
     var dbSize = 5 * 1024 * 1024;
 
-    beforeEach("should open database", function (done) {
+    beforeEach("should open database", function () {
         db = window.openDatabase(dbName, "", dbName, dbSize);
+    });
+
+    beforeEach("should upgrade database", function (done) {
 
         if (db.version === dbVersion) return done();
 
